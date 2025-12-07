@@ -1,0 +1,5 @@
+{
+  "name": "StyleAI - Personal Stylist",
+  "description": "A personal AI stylist that analyzes your face and body to suggest and visualize haircuts, glasses, beards, and fashion outfits using Gemini AI.",
+  "requestFramePermissions": []
+}
